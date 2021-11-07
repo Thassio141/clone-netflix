@@ -7,7 +7,7 @@
     text-decoration: none;
     color: #e5e5e5;;
     font-family: sans-serif;
-    list-style:none ;
+    list-style:none ;   
 }
 
 .menu {
@@ -44,9 +44,9 @@
 }
 
 .menu_secundario img{
-    width: 45px;
-    height: 45px;
-    padding-left: 1000px;
+    width: 35px;
+    height: 35px;
+    margin-left: 850px;
 }
 /*a partir daqui é a partes dos videos
 .barra_pesquisa {
@@ -62,8 +62,35 @@
 
 }*/
 
-.videos {
-    width: 1920px;
-    height: 1000px;
-    background-color: black;
+.caixa_filmes {
+    padding-top: 110px;
+    padding-left: 46px;
+    width: 2000px;
+    height: 167px;
+    overflow: hidden;
+}
+
+.player_filmes {
+    display: inline;
+}
+.player_filmes h3 {
+    display: flex;
+}
+.player_filmes video{
+    border-radius: 5px;
+    width: 240px;
+    height: 145px;
+}
+.player_filmes iframe {
+    border-radius: 5px;
+    width: 240px;
+    height: 145px;
+}
+
+.caixa_filmes2{
+    padding-top: 50px;
+    padding-left: 46px;
+    width: 2000px;
+    height: 165px;
+    overflow: hidden;
 }
