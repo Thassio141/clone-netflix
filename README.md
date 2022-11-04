@@ -1,5 +1,5 @@
 # clone-netflix
-tentando criar um clone da netflix , apenas com o conhecimento de Html , Css.
+Criando um clone da netflix , apenas com o conhecimento de Html , Css.
 
 # update 1.1 
 Primeira imagem da parte de filmes e séries.
